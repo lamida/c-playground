@@ -1,0 +1,1 @@
+This folder will contain samples and code from C++ Crash Course book.
